@@ -48,7 +48,7 @@ def keep_alive():
 # CONFIG
 # =========================================================
 
-BOT_TOKEN = "8751047450:AAGBCmxj4t6AP0yiDeYeRQ8qD3v0-LzNon8"
+BOT_TOKEN = "8751047450:AAFzkmbPdVuStO-jDdz8o2oGVIIHLN0UMJY"
 
 session = requests.Session()
 
